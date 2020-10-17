@@ -1,1 +1,3 @@
 this is a second.txt file
+
+used git revert command to remove changes after commit
